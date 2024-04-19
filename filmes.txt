@@ -2,3 +2,4 @@
 "Diga 'olá' para meu pequeno amigo!" (scarface)
 "Hasta la vista, baby" (exterminador do futuro2)
 GAROTO PROGRAMADOR
+APRENDENDO GIT HUG
